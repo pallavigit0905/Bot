@@ -1,0 +1,51 @@
+PALLAVI NAGOTHI
+San Jose, CA |   +15134603211| □ •  npallavi0905@gmail.com | LinkedIn | Tableau Public
+
+
+
+Strategic and solutions-driven Analytics Engineer with 8+ years of experience transforming legacy reporting into intelligent, automated dashboards using Tableau, Power BI, SSRS, and Cognos. Adept at aligning business goals with data strategy, translating complex requirements into compelling visual narratives, and streamlining reporting workflows across large-scale, cross-functional teams. Proven success in healthcare, finance, insurance, and aviation domains—delivering KPI-rich dashboards, accelerating decision-making, and ensuring compliance with HIPAA and industry standards. Skilled in SQL, Python, and Alteryx with a passion for mentoring teams and driving data integrity, visualization standardization, and reporting excellence.
+
+Tableau | Power BI Reporting | Cognos BERT Reports | SSRS Report Development | Alteryx | Data Visualization | AWS | Data Pipelining | SQL Query Optimization | Python Automation | KPI Analysis | Agile/Scrum Methodologies | Data Validation & QA | Stakeholder Communication | Dashboard Standardization and performance improvemnent
+
+
+Role: Recruited to automate legacy Excel-based reporting, transitioning to dynamic Tableau, SSRS, and BERT Cognos reports while standardizing dashboards, mentoring teams, validating KPIs, and managing ServiceNow work tickets.
+•	Replaced legacy Excel reports with dynamic dashboards, reducing manual processes by 35% and improving reporting accuracy and consistency, ensuring flawless, time-critical month-end, quarter-end data delivery.
+•	Developed and automated dynamic dashboards using Tableau, Power BI, SSRS, and BERT Cognos, replacing legacy Excel reports to enhance data accuracy and visualization and service ticket workflows for Boeing.
+•	Standardized reporting frameworks and validated KPIs, ensuring consistency, reliability, and alignment with business goals across functions.
+•	Mentored junior analysts and offshore teams, enabling faster ramp-up on tools, processes, and data governance best practices.
+•	Managed and resolved ServiceNow work tickets and ServiceNow's IT Operations Management software by ensuring data quality and addressing report-related issues and implementing enhancements to support evolving user requirements.
+
+Role: Selected as Business Data Analyst to bridge business goals with data strategy by translating complex requirements into actionable insights, enhancing decision-making through analytical storytelling, and streamlining reporting processes across cross- functional teams.
+•	Revamped legacy Medicaid systems by crafting insightful Tableau and Power BI dashboards, accelerating claims analysis and ensuring seamless HIPAA-compliant data transitions with exceptional precision and clarity.
+•	Elevated reporting accuracy by enhancing complex Tableau and Power BI dashboards, standardizing visuals aligned with evolving client metrics.
+•	Conducted advanced data analysis of large healthcare datasets, uncovering trends and inefficiencies that contributed to operational improvements and cost reductions.
+•	Managed data pipelines and optimized ETL processes, reducing data processing times by 25%, and enhancing the timeliness of decision-making.
+ 
+ 
+Role: Recruited to streamline data storytelling and user-centric insights by developing real-time Tableau dashboards, optimizing SQL performance, and aligning BI solutions with evolving business needs and risk gaps for key clients.
+•	Revamped a fragmented Information System for Amex into a cohesive, user-adaptive platform—boosting client care quality and operational excellence through compelling Tableau visualizations.
+•	Crafted high-impact Tableau dashboards showcasing cost trends of nationwide bank projects for Bank of America, enabling senior leadership to make swift, data-backed investment decisions.
+•	Seamlessly migrated legacy Cognos dashboards to vibrant Tableau visuals, empowering executives with accurate travel forecasts and agile KPI-driven decision-making across global markets for AMEX.
+•	Facilitated business process mapping and identified inefficiencies in data workflows, Led the optimization of reporting processes by implementing data automation and reducing cycle time by 30%.
+
+Role: Hired to transform academic and payroll insights into strategic assets by designing dynamic Cognos dashboards, resolving performance bottlenecks, and enabling mobile-friendly, offline reporting for data-driven institutional decisions for client-Rakesh Institution.
+•	Reduced report generation time by 40% through optimization of complex Cognos queries and implementation of concurrent query execution.
+•	Enabled 100+ faculty and administrators to access real-time student performance data via mobile-optimized active reports, enhancing academic decision-making efficiency.
+
+•	Masters in Software Engineering | Portland State University | 2016
+•	Bachelors in Information Technology | Jawaharlal Nehru Technological University | 2009
+
+•	BI Tools: Power BI 1.14, Tableau 2022, 2019.2/10.5/10.4/9.02, SSRS (2012), Cognos BI suite (10.X), Alteryx
+•	Database Languages: T-SQL, PL/SQL, MySQL
+•	Databases: Microsoft SQL Server 2016/2014/2012, NOSQL, Oracle 10 g/9i, DB2, MySQL, Amazon Simple DB, Mongo DB, Snowflake
+•	Cloud Platforms & Data Solutions: AWS (Amazon Redshift), Azure Data Factory, Cloud Data Integration
+•	Database Technologies & Data Integration: SQL Server, Oracle, MySQL, Snowflake, MongoDB, Amazon Redshift, ETL Processes
+•	Automation & Data Engineering: Python (Data Analysis, Workflow Automation), SQL/PL-SQL (Complex Queries, Performance Tuning, Data Transformation)
+•	Data Visualization & BI Tools: Tableau (Advanced), Power BI, SSRS, Cognos, QlikView, Interactive Dashboards, Real- time Analytics, Data Storytelling
+•	Business Analysis & Requirements Gathering: Stakeholder Engagement, Business Process Reengineering, Requirements Definition, Gap Analysis, User Story Mapping, Solution Design, Business Case Development.
+•	Advanced Data Analytics & Reporting: Predictive Analytics, Statistical Modelling, Data Mining, Root Cause Analysis, Trend Analysis, Financial & Operational Reporting
+•	ETL Tool: SSIS, Informatica
+•	Languages: Java, Python, HTML, XML, Android App development, UML
+•	IDE’s/Tools: Visual Studio, SSDT, MS Excel, Excel Reports, Visio, SharePoint, MS Project, MS Word, Service Now ITSM
+•	Software Methodologies: Waterfall, Agile – Scrum, RUP
+•	Project Management & Agile Methodology: Agile, Scrum, Jira, Azure DevOps, MS Project, Cross-Functional Team Collaboration.
