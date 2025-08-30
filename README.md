@@ -1,5 +1,3 @@
-Ref: Chat GPt
-
 Resume Q&A Bot with DSPy + Qdrant
 Overview
 
